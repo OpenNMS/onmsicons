@@ -1,8 +1,8 @@
 {
-  "build_hash": "f786a0e7538ecf88527cc55370d0215e",
+  "build_hash": "357d9c5dd7218b1aefd9b0c2f12883f1",
   "prefix": "onms-",
   "version": "1.0.0",
-  "name": "Onmsicons",
+  "name": "onmsicons",
   "icons": [
     {
       "code": "0xf100",

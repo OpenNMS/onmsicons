@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2015-9-29: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20150913 at Tue Sep 29 17:35:51 2015
+ By Benjamin Reed
+Copyright (c) 2015, Benjamin Reed
+</metadata>
+<defs>
+<font id="Onmsicons" horiz-adv-x="211" >
+  <font-face 
+    font-family="Onmsicons"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 9 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -34 211 418"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+F100-F100"
+  />
+    <missing-glyph />
+    <glyph glyph-name="ion-grabber" unicode="&#xf100;" 
+d="M0 328v90h90v-90h-90zM120 328v90h91v-90h-91zM0 207v90h90v-90h-90zM120 207v90h91v-90h-91zM0 87v90h90v-90h-90zM120 87v90h91v-90h-91zM0 -34v90h90v-90h-90zM120 -34v90h91v-90h-91z" />
+  </font>
+</defs></svg>

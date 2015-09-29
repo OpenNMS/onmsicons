@@ -1,0 +1,12 @@
+{
+  "build_hash": "f786a0e7538ecf88527cc55370d0215e",
+  "prefix": "onms-",
+  "version": "1.0.0",
+  "name": "Onmsicons",
+  "icons": [
+    {
+      "code": "0xf100",
+      "name": "grabber"
+    }
+  ]
+}

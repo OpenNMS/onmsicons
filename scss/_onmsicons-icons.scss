@@ -2,8 +2,10 @@
 // --------------------------
 
 .onmsicons,
+.#{$onmsicons-prefix}1password:before,
 .#{$onmsicons-prefix}grabber:before
 {
   @extend .ion;
 }
+.#{$onmsicons-prefix}1password:before { content: $ionicon-var-1password; }
 .#{$onmsicons-prefix}grabber:before { content: $ionicon-var-grabber; }

@@ -1,9 +1,13 @@
 {
-  "build_hash": "2459ae25cfa90fa72a36f83e28fa0f10",
+  "build_hash": "74e1160b9303fe9700143d5c6c95ece4",
   "prefix": "onms-",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "onmsicons",
   "icons": [
+    {
+      "code": "0xf101",
+      "name": "1password"
+    },
     {
       "code": "0xf100",
       "name": "grabber"
